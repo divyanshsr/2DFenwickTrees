@@ -175,13 +175,13 @@ void answerQueries(Query q[], int m, int BIT[][N+1])
             cout<<"\n\tTest Case 1: Calculating the sum of a square sub-matrix."<<endl;
         }
         else if(i==1){
-         cout<<"\n\tTest Case 2: Calculating the sum of a rectangular sub-matrix."<<endl;
+         cout<<"Test Case 2: Calculating the sum of a rectangular sub-matrix."<<endl;
         }
         else if(i==2){
-         cout<<"\n\tTest Case 3: Calculating the sum of a singular sub-matrix."<<endl;
+         cout<<"Test Case 3: Calculating the sum of a singular sub-matrix."<<endl;
         }
         else if(i==3){
-         cout<<"\n\tTest Case 4: Calculating the sum of the entire matrix."<<endl;
+         cout<<"Test Case 4: Calculating the sum of the entire matrix."<<endl;
         }
 
 
